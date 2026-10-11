@@ -1,6 +1,6 @@
 # Chat Assistant (Reviactyl port)
 
- #- Coverted by shadowhacker597398
+-# Coverted by shadowhacker597398
 
 AI chat assistant for Reviactyl: log/config analysis, server-aware answers, optional human handoff via Discord webhook, staff replies from the admin page. Ported from the Blueprint `aichat` extension (YadduNetwork).
 
